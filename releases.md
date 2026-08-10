@@ -44,6 +44,7 @@
 
 ## API
 
+-   [v1.10.6: 2026-08-10T18:52:59.198Z](./releases/gaci-node-api/v1.10.6.md)
 -   [v1.10.5: 2026-08-10T18:14:52.539Z](./releases/gaci-node-api/v1.10.5.md)
 -   [v1.10.4: 2026-08-07T12:37:24.650Z](./releases/gaci-node-api/v1.10.4.md)
 -   [v1.10.3: 2026-08-03T21:27:43.796Z](./releases/agenda-quirofano-api/v1.10.3.md)
