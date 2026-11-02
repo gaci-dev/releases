@@ -55,6 +55,7 @@
 
 ## API
 
+-   [v1.10.22: 2026-11-02T17:41:55.185Z](./releases/gaci-node-api/v1.10.22.md)
 -   [v1.10.21: 2026-11-02T08:46:01.571Z](./releases/gaci-node-api/v1.10.21.md)
 -   [v1.10.20: 2026-10-30T21:29:08.043Z](./releases/gaci-node-api/v1.10.20.md)
 -   [v1.10.19: 2026-10-30T19:50:38.954Z](./releases/gaci-node-api/v1.10.19.md)
